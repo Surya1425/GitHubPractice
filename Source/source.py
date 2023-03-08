@@ -1,1 +1,0 @@
-print("Source is empty")
